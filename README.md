@@ -11,13 +11,20 @@ At the top of the app, you can set a personal goal statement and add an optional
 ## Key Features
 
 Three progress modes
+
   Weighted (progress by task weight)
+  
   Unweighted (simple task counts)
+  
   Hours-weighted (progress by estimated hours)
+  
 
 Goal panel
+
   Write a goal statement at the top of the app
+  
   Add an optional image (PNG/GIF) for extra motivation
+  
 
 Weekly planner view
   See tasks due today, tomorrow, and the upcoming week
