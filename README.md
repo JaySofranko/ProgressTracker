@@ -50,7 +50,7 @@ Inline editing
 ## 1. Clone the repository or Click the green "<>Code" button and "Download ZIP"
 Open your terminal (Command Prompt on Windows)
 ```
-git clone https://github.com/JaySofranko/progress-tracker.git
+git clone https://github.com/JaySofranko/progresstracker.git
 ```
 Then, navigate to the file using this command, or open the file manually
 ```
