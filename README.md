@@ -11,40 +11,40 @@ At the top of the app, you can set a personal goal statement and add an optional
 ## Key Features
 
 ### Three progress modes
-  -Weighted (progress by task weight)
-  -Unweighted (simple task counts)
-  -Hours-weighted (progress by estimated hours)
+  - Weighted (progress by task weight)
+  - Unweighted (simple task counts)
+  - Hours-weighted (progress by estimated hours)
   
 ### Goal panel
-  -Write a goal statement at the top of the app
-  -Add an optional image (PNG/GIF) for extra motivation
+  - Write a goal statement at the top of the app
+  - Add an optional image (PNG/GIF) for extra motivation
 
 ### Weekly planner view
-  -See tasks due today, tomorrow, and the upcoming week
-  -Urgency badges: 🔥 today, ⚠ tomorrow, ⏳ soon, • later
+  - See tasks due today, tomorrow, and the upcoming week
+  - Urgency badges: 🔥 today, ⚠ tomorrow, ⏳ soon, • later
 
 ### Tags & filtering
-  -Organize tasks by custom tags
-  -Filter your view by tag
+  - Organize tasks by custom tags
+  - Filter your view by tag
 
 ### Notifications & reminders
-  -Warnings for overdue and upcoming tasks
-  -Optional sound alerts (Windows only)
+  - Warnings for overdue and upcoming tasks
+  - Optional sound alerts (Windows only)
 
 ### Dark mode theme
-  -Sleek, modern look for day or night
+  - Sleek, modern look for day or night
 
 ### Autosave & persistence
-  -Work is saved automatically to JSON
-  -Load previous state instantly when reopening
+  - Work is saved automatically to JSON
+  - Load previous state instantly when reopening
 
 ### CSV import/export
-  -Import tasks from a spreadsheet
-  -Export progress for reports or backups
+  - Import tasks from a spreadsheet
+  - Export progress for reports or backups
 
 ### Inline editing
-  -Rename tasks, adjust weights, due dates, and tags directly
-  -Toggle status with checkboxes or dropdowns
+  - Rename tasks, adjust weights, due dates, and tags directly
+  - Toggle status with checkboxes or dropdowns
 
 # Installation
 ## 1. Clone the repository or Click the green "<>Code" button and "Download ZIP"
