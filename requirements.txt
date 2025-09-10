@@ -1,0 +1,7 @@
+tk
+pandas
+openpyxl
+python-docx
+python-pptx
+pypandoc
+Pillow
