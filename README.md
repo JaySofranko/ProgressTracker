@@ -10,48 +10,41 @@ At the top of the app, you can set a personal goal statement and add an optional
 
 ## Key Features
 
-Three progress modes
-
-  Weighted (progress by task weight)
+###Three progress modes
+  -Weighted (progress by task weight)
+  -Unweighted (simple task counts)
+  -Hours-weighted (progress by estimated hours)
   
-  Unweighted (simple task counts)
-  
-  Hours-weighted (progress by estimated hours)
-  
+###Goal panel
+  -Write a goal statement at the top of the app
+  -Add an optional image (PNG/GIF) for extra motivation
 
-Goal panel
+###Weekly planner view
+  -See tasks due today, tomorrow, and the upcoming week
+  -Urgency badges: 🔥 today, ⚠ tomorrow, ⏳ soon, • later
 
-  Write a goal statement at the top of the app
-  
-  Add an optional image (PNG/GIF) for extra motivation
-  
+###Tags & filtering
+  -Organize tasks by custom tags
+  -Filter your view by tag
 
-Weekly planner view
-  See tasks due today, tomorrow, and the upcoming week
-  Urgency badges: 🔥 today, ⚠ tomorrow, ⏳ soon, • later
+###Notifications & reminders
+  -Warnings for overdue and upcoming tasks
+  -Optional sound alerts (Windows only)
 
-Tags & filtering
-  Organize tasks by custom tags
-  Filter your view by tag
+###Dark mode theme
+  -Sleek, modern look for day or night
 
-Notifications & reminders
-  Warnings for overdue and upcoming tasks
-  Optional sound alerts (Windows only)
+###Autosave & persistence
+  -Work is saved automatically to JSON
+  -Load previous state instantly when reopening
 
-Dark mode theme
-  Sleek, modern look for day or night
+###CSV import/export
+  -Import tasks from a spreadsheet
+  -Export progress for reports or backups
 
-Autosave & persistence
-  Work is saved automatically to JSON
-  Load previous state instantly when reopening
-
-CSV import/export
-  Import tasks from a spreadsheet
-  Export progress for reports or backups
-
-Inline editing
-  Rename tasks, adjust weights, due dates, and tags directly
-  Toggle status with checkboxes or dropdowns
+###Inline editing
+  -Rename tasks, adjust weights, due dates, and tags directly
+  -Toggle status with checkboxes or dropdowns
 
 # Installation
 ## 1. Clone the repository or Click the green "<>Code" button and "Download ZIP"
