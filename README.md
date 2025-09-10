@@ -49,17 +49,19 @@ Inline editing
 # Installation
 ## 1. Clone the repository or Click the green "<>Code" button and "Download ZIP"
 Open your terminal (Command Prompt on Windows)
+```
 git clone https://github.com/JaySofranko/progress-tracker.git
-
+```
 Then, navigate to the file using this command, or open the file manually
-
+```
 cd progress-tracker
+```
 
 ## 2. Install dependencies
-Make sure you have Python 3.9+ installed. Then run:
-
+Make sure you have Python 3.9+ installed. If not, then go to https://www.python.org/downloads/ and download latest. Then run:
+```
 pip install -r requirements.txt
-
+```
 Dependencies include:
 tk (Tkinter, usually comes with Python)
 pandas
@@ -69,9 +71,10 @@ python-pptx
 pypandoc
 Pillow (for image scaling)
 
-## 3. Run the app
+## 3. Run the app in Command Prompt, or double-click the ProgressTracker.py in File Explorer
+```
 python progress_tracker.py
-
+```
 The app will open in a Tkinter GUI window.
 
 # License
