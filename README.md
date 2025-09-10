@@ -84,6 +84,6 @@ This project is licensed under the MIT License.
 
 This app is free and open-source. If you find it useful and want to support development, consider buying me a coffee:
 
-- [Buy Me a Coffee]([https://buymeacoffee.com/jaysofranko])
+- [Buy Me a Coffee](https://buymeacoffee.com/jaysofranko)
 
 Your support helps keep the project alive and motivates me to keep improving it. Thanks!
