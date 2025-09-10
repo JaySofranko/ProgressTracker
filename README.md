@@ -21,7 +21,7 @@ At the top of the app, you can set a personal goal statement and add an optional
 
 ### Weekly planner view
   - See tasks due today, tomorrow, and the upcoming week
-  - Urgency badges: 🔥 today, ⚠ tomorrow, ⏳ soon, • later
+  - Urgency badges: ⏰ overdue, 🔥 today, ⚠ tomorrow, ⏳ soon, • later
 
 ### Tags & filtering
   - Organize tasks by custom tags
