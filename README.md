@@ -54,7 +54,7 @@ git clone https://github.com/JaySofranko/progresstracker.git
 ```
 Then, navigate to the file using this command, or open the file manually
 ```
-cd progress-tracker
+cd progresstracker
 ```
 
 ## 2. Install dependencies
@@ -73,7 +73,7 @@ Pillow (for image scaling)
 
 ## 3. Run the app in Command Prompt, or double-click the ProgressTracker.py in File Explorer
 ```
-python progress_tracker.py
+python progresstracker.py
 ```
 The app will open in a Tkinter GUI window.
 
